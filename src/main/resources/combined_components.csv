@@ -1,0 +1,38 @@
+﻿component_name,brand,price,color,type
+AMD Ryzen 7 7800X3D,AMD Ryzen 7 7800X3D,339,Radeon,CPU
+AMD Ryzen 5 7600X,AMD Ryzen 5 7600X,204.99,Radeon,CPU
+AMD Ryzen 5 5600X,AMD Ryzen 5 5600X,144.31,Black,CPU
+AMD Ryzen 5 7600,AMD Ryzen 5 7600,185,Radeon,CPU
+Zotac GAMING AMP Holo,GeForce RTX 4070 Ti SUPER,869.99,Black,GPU
+ASRock Low Profile,Arc A310,99.99,Black,GPU
+Zotac GAMING AMP Extreme AIRO,GeForce RTX 4090,2995,Black / Silver,GPU
+Inno3D Twin X2,GeForce RTX 4060,300,Black / Silver,GPU
+MSI GAMING X TRIO,GeForce RTX 3070 Ti,699.99,Black / Silver,GPU
+MSI GAMING,GeForce GTX 970,1345,Black / Red,GPU
+Kingston Fury Renegade RGB 32 GB,GeForce GTX 970,239.99,Silver / White,Memory
+Mushkin Redline 96 GB,GeForce GTX 970,259.99,Black,Memory
+G.Skill Ripjaws V 64 GB,GeForce GTX 970,408.97,Black,Memory
+G.Skill Trident Z RGB 32 GB,GeForce GTX 970,213.93,Black,Memory
+Kingston KSM48R40BS8KMM-16HMR 32 GB,GeForce GTX 970,78.99,Green,Memory
+Kingston FURY Renegade Pro 16 GB,GeForce GTX 970,118.88,Black / Gray,Memory
+Corsair Vengeance RGB RT 64 GB,GeForce GTX 970,188.59,Black,Memory
+Corsair Vengeance RGB RT 32 GB,GeForce GTX 970,126.74,Black,Memory
+Patriot Viper 3 8 GB,GeForce GTX 970,13.99,Black / Silver,Memory
+Asus PRIME H310M-E,LGA1151,172.07,Silver / Black,Motherboard
+ASRock H310CM-HDV,LGA1151,149.99,Black,Motherboard
+ASRock X299 Taichi CLX,LGA2066,219.99,Black / Silver,Motherboard
+Asus PRIME B550M-A (WI-FI),AM4,209.5,Black / White,Motherboard
+Gigabyte B650M AORUS PRO AX,AM5,167,Black,Motherboard
+ASRock AB350M Pro4,AM4,220.5,Black / White,Motherboard
+Asus PRIME B760M-A D4,LGA1700,269.99,Silver / Black,Motherboard
+Gigabyte Z590 VISION G,LGA1200,349.69,Black / White,Motherboard
+Asus PRIME Z270-P,LGA1151,355.99,Black / Silver,Motherboard
+Fractal Design Pop Mini Silent,MicroATX Mid Tower,118.66,Black,Case
+Cooler Master HAF 700,ATX Full Tower,288.98,Black,Case
+YEYIAN Hussar,MicroATX Mini Tower,139.62,Black,Case
+Asus TUF Gaming GT501,ATX Mid Tower,154.99,White / Black,Case
+Corsair 2000D RGB AIRFLOW,Mini ITX Tower,139.99,White,Case
+Lian Li TU150,Mini ITX Desktop,152.74,Silver,Case
+NZXT H7,ATX Mid Tower,99.99,White,Case
+ENDORFY Arx 700 ARGB,ATX Mid Tower,98.99,Black,Case
+Fractal Design Meshify 2 XL,ATX Full Tower,204.99,Black,Case
