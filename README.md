@@ -85,4 +85,7 @@ Asus TUF Gaming GT501 ATX Mid Tower   154.99     White / Black Case
 4. Build your own PC
 0. Exit
 ============================
-Enter your choice: 
+Enter your choice:
+
+## Unit Testing
+We used AI to make a test class that tests the code and check if it's working or not.
